@@ -34,8 +34,6 @@ Table visual grouped by Agent
 
 Bar charts for comparison
 
-Time-series trends (if available)
-
 Slicers for filtering by Agent and Call Outcome
 
 Interactive Capabilities:
